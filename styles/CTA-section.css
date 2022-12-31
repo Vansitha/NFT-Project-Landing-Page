@@ -1,6 +1,7 @@
 @import url(./global.css);
 
 .cta-section {
+    margin-top: 6rem;
     height: 380px;
     border-radius: 35px;
     background: linear-gradient(277.69deg, #AAD9D9 -9.79%, #9090DC 100%, #7D7DDC 84.42%);
