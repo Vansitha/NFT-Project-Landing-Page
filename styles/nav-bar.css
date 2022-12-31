@@ -1,0 +1,21 @@
+@import url(./nav-bar.css);
+
+.navbar {
+    box-shadow: none;
+}
+
+.navbar-brand,.nav-link {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 900;
+    color: var(--text-color);
+}
+
+.navbar .nav-link:hover {
+    color: var(--text-color); /* Change the color of the links to green on hover */
+  }
+
+.nav-link {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+}
