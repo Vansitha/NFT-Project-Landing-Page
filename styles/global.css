@@ -41,6 +41,10 @@ h2 {
     font-weight: 600;
 }
 
+.cta-btn {
+    background-color: var(--primary-color);
+}
+
 .btn-custom-primary:hover {
     background-color: var(--secondary-color);
 }
