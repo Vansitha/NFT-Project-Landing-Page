@@ -1,0 +1,7 @@
+@import url(./global.css);
+
+.brands {
+    font-family: 'Outfit';
+    font-weight: 600;
+    letter-spacing: 3px;
+}
