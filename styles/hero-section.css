@@ -2,6 +2,10 @@
 /* Mobile First Design */
 @import url(./global.css);
 
+.hero-section {
+    position: relative;
+}
+
 .btn-hero-secondary {
     background-color: transparent;
     border-color: var(--accent-color);
@@ -9,6 +13,18 @@
 
 .btn-hero-secondary:hover {
     background-color: transparent;
+}
+
+ /* Ellipse 1 */
+.ellipse {
+    position: absolute;
+    left: 70%;
+    width: 30%;
+    height: 30%;
+    /* left: calc(50% - 628px/2 + 600px); */
+    top: 350px;
+    background: rgba(170, 217, 217, 0.6);
+    filter: blur(162px);
 }
 
 @media all and (min-width: 1024px) {
