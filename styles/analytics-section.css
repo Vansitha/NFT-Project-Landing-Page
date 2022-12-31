@@ -1,0 +1,9 @@
+@import url(./global.css);
+
+.analytics-text {
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    color: var(--accent-color);
+}
