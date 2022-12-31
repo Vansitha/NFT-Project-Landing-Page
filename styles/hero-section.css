@@ -1,0 +1,11 @@
+/* Styles for the hero section */
+/* Mobile First Design */
+
+
+
+@media all and (min-width: 1024px) {
+    .btn-custom-primary-hero {
+        width: 230px;
+
+    }
+}
