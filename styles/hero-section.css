@@ -1,11 +1,22 @@
 /* Styles for the hero section */
 /* Mobile First Design */
+@import url(./global.css);
 
+.btn-hero-secondary {
+    background-color: transparent;
+    border-color: var(--accent-color);
+}
 
+.btn-hero-secondary:hover {
+    background-color: transparent;
+}
 
 @media all and (min-width: 1024px) {
     .btn-custom-primary-hero {
-        width: 230px;
+        width: 11rem;
+    }
 
+    .cta-btn-group {
+        margin-top: 4.4rem;
     }
 }
