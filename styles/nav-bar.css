@@ -1,7 +1,19 @@
 @import url(./nav-bar.css);
 
+
 .navbar {
     box-shadow: none;
+}
+
+.navbar-hue {
+    position: absolute;
+    width: 628px;
+    height: 628px;
+    left: calc(50% - 628px/2 - 250px);
+    top: -520px;
+    background: #9090DC;
+    opacity: 0.5;
+    filter: blur(162px);
 }
 
 .navbar-brand,.nav-link {
