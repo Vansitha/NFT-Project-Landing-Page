@@ -21,7 +21,6 @@
     left: 70%;
     width: 30%;
     height: 30%;
-    /* left: calc(50% - 628px/2 + 600px); */
     top: 350px;
     background: rgba(170, 217, 217, 0.6);
     filter: blur(162px);
