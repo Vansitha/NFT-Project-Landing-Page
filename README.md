@@ -4,4 +4,5 @@ Built with the help of the MDB framework and coded some css too. <br>
 Let me know how it looks..You can go ahead and roast it also. <br>
 Link: https://nft-project-vr.netlify.app/
 
-Design from Figma community
+Design from Figma community <br>
+PS: I randomly stumbled upon it, so credits to the person who created this design.
