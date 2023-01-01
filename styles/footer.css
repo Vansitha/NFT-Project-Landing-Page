@@ -1,0 +1,9 @@
+@import url(./global.css);
+
+.footer-container {
+    background-color: var(--primary-color);
+}
+
+h .footer-logo {
+    font-size: 22px;
+}
